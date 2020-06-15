@@ -33,3 +33,6 @@ Though, this will not work in Savings View as PMT is optional. In short, the cal
 3. PMT period is always monthly  
 4. Interest rate is annual.  
 5. The formulas used are to be reused with care, as in some places the time accepted should be years, in some other - months. The same applies for functions returning time.
+
+### Example Screenshot of Storyboard
+![Screenshot](ExampleScreenshot.png)
