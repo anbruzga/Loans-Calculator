@@ -22,7 +22,10 @@ Iphone app for calculations related to mortage, loans and savings.
 ## Instructions:
 If all fields are not empty, the calculator will calculate the field which has the blinking cursor.  
 Alternatively, the calculator will try to find a void value which seems logical to calculate.  
-Though, this will not work in Savings View as PMT is optional. In short, the calculator will count everything, excluding interest rate when PMT is given.  
+Though, this will not work in Savings View as PMT is optional. In short, the calculator will count everything, excluding interest rate when PMT is given. 
+* Yellow colour text field means that the answer is NOT coherent. For example, if it is with minus where it should not be.
+* Red colour means that some input is missing
+* Green colour highlights the field that just got calculated
 
 ## Additional info on maths behind.
 1. Compounding period is always monthly  
